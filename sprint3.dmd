@@ -5,4 +5,9 @@
 <ownerDesignName>sprint3</ownerDesignName>
 <capitalNames>false</capitalNames>
 <designId>0CCAC674-F890-1760-A5B4-A34D3DE76BC0</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="A74FAC32-B531-7419-E69E-E23CF1859381">
+<designStoragePath>Z:\sprint3</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
 </OSDM_Design>
